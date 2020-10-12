@@ -6,7 +6,7 @@
     "employer": "",
     "jobDescription": "Fresh Graduate from Informatics",
     "image": "profile_pic.jpg",
-    "bio": "My name is Akhfas, I'm a Junior Web Developer && Database Administration. I want to contribute with the skills I have and want to move forward with the ideas I have. I was looking for a full time job as Backend Developer and Database Developer in the Telecommunication Industry.",
+    "bio": "My name is Akhfas. I want to contribute with the skills I have and want to move forward with the ideas I have. Because I had experience as a web developer, social organization and education when I was in college. Evidently I have made several projects and developed them again. It is proven by several projects that I have worked on such as the E-Learning website I am currently looking for a full time job as a Web Developer in the IT and Telecommunications industry. On the other hand, I often do freelance work building E-Commerce websites and logo design.",
     "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
     "email": "zakaria_akhfas@outlook.com",
     "phone": "+62 852-0152-5832",
@@ -17,7 +17,7 @@
       "zip": "14230"
     },
     "website": "http://asinau.site",
-    "resumedownload": "https://drive.google.com/file/d/1emukyVBDdMMWOIc3EpkqGe2M99uMba-L/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1j1z9J1rgoCrefyanlLNoY_ODDWWeTj4z/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -56,48 +56,48 @@
         "company": "High School 1 Sirampog",
         "title": "Web Developer Elearning System",
         "years": "Sepetember 2019 - February 2020",
-        "description": "For most of my apprenticeship in high school, I have worked as a Web Developer. Here I have had the opportunity to dig in and get my hands dirty with all the pieces of our software. I have worked with PHP assisted by CodeIgniter Framework and JavaScript"
+        "description": "For most of my internship in high school, I developed the e-learning system. Here I have had the opportunity to dig in and get my hands dirty with all the pieces of our software. I have worked with PHP assisted by CodeIgniter Framework and JavaScript"
       }
     ],
     "skills": [
       {
-        "name": "Git",
-        "description": "I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects.",
-        "image": "git.jpg"
+        "name": "Kali Linux",
+        "description": "I use Kali Linux for all of my projects so far. I have used kali linux to test system security and found bugs in my system",
+        "image": "kali-linux.jpg"
       },
       {
         "name": "JavaScript",
-        "description": "JavaScript is the programming language I use today. This is by far the language I am most familiar with when it comes to data structures and algorithm programming",
+        "description": "JavaScript is the second programming language I use today. This is by far the language I am most familiar with when it comes to data structures and algorithm programming",
         "image": "javascript.jpg"
       },
       {
         "name": "React JS",
-        "description": "I'm fairly new to React and didn't really like it at first. It has grown on me and I will continue to use it in the future. I've created this website based on ReactJS which I use as a starting point for this personal site.",
+        "description": "I'm fairly new to React and didn't really like it at first. It has grown on me and I will continue to use it in the future. I've created this website based on ReactJS which I use as a starting point for this personal site",
         "image": "react.jpg"
       },
       {
         "name": "PHP",
-        "description": "I enjoy MeteorJS for it's ease of configuration and its ability to get a full stack prototype up and running quickly. I used MeteorJS in a team for a Startup Programming class in UVIC in conjunction with React to build the MVP for Smirkspace (below in portfolio)",
+        "description": "PHP is the first language I use to develop my e-learning project. I enjoy PHP for its ease of understanding the language and its ability to help me with backend projects",
         "image": "php.jpg"
       },
       {
         "name": "Node JS",
-        "description": "Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in conjunction with MeteorJS-based projects",
+        "description": "Node JS is my server-side scripting language of choice and this is my first time using it to build my whatsapp-mern prototype project.",
         "image": "node.jpg"
       },
       {
         "name": "Material UI",
-        "description": "I use Material-UI more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others.",
+        "description": "I use Material-UI more often than not when designing layouts for my site. This is the framework I am most familiar with so far and can therefore design faster than others",
         "image": "materialui.jpg"
       },
       {
         "name": "MongoDB",
-        "description": "I have used many different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with",
+        "description": "I have used different database systems and am more educated and experienced with Relational Databases. However, for many applications the ease of use of MongoDB fits my needs better and is much more fun to work with",
         "image": "mongo.jpg"
       },
       {
         "name": "CodeIgniter",
-        "description": "CodeIgniter is the first framework I use to create a website. This framework is very nice and lightweight. I like it very much.",
+        "description": "CodeIgniter is the first framework I use to create e-learning projects. This framework is very nice and light. I like it very much",
         "image": "codeigniter.jpg"
       }
     ]
@@ -106,14 +106,14 @@
     "projects": [
       {
         "title": "Airbnb-Clone",
-        "category": "Clone website airbnb with React JS",
+        "category": "Clone website airbnb with React JS & Responsive Website",
         "image": "airbnb-clone.png",
-        "url": "https://airbnb-clone-e94aa.web.app/"
+        "url": "https://airbnb-clone-41bec.web.app/"
       },
       {
         "title": "Messager-Clone",
-        "category": "Clone facebook messager using Firebase and React JS",
-        "image": "messager-clone.JPEG",
+        "category": "Clone facebook messager integration Firebase and React JS & Responsive Aps",
+        "image": "facebook-messager-clone.png",
         "url": "https://facebook-messeger-clone-c5635.web.app/"
       },
       {
@@ -129,21 +129,21 @@
         "url": "https://github.com/tbakerx/react-resume-template"
       },
       {
-        "title": "Form Login",
-        "category": "Create form login UI/UX using CSS and HTML",
-        "image": "form-login.jpg",
-        "url": "https://github.com/akhfasarrofi/form-login"
+        "title": "Whatsapp Clone",
+        "category": "I created with MongoDb, Express.js, React.js and Node.js",
+        "image": "whatsapp-mern.JPG",
+        "url": "https://github.com/akhfasarrofi/whatsapp-mern"
       },
       {
-        "title": "Rest API",
-        "category": "Create website Pizza Hutt  Rest API",
-        "image": "rest-api.JPG",
-        "url": "https://github.com/akhfasarrofi/rest-api-pizza-hutt"
+        "title": "Company Profile",
+        "category": "Build Template Responsive Company Profile",
+        "image": "landingpage.JPG",
+        "url": "https://github.com/akhfasarrofi/landing-page"
       },
       {
-        "title": "Website Landing Page",
-        "category": "I created a landing page website with instructor Sandhika Galih",
-        "image": "landing-page.JPG",
+        "title": "Company Profile",
+        "category": "Build Template Responsive Company Profile",
+        "image": "landingpage.JPG",
         "url": "https://github.com/akhfasarrofi/landing-page"
       }
     ]
@@ -151,8 +151,8 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "I have had the opportunity to work with Tim on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Tim excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
-        "user": "Alastair Beaumont - Web Developer at AppColony"
+        "text": "Many people focus on taking over the world or doing the biggest thing and getting the most users. I think making a difference and doing something cool is intensely focused.",
+        "user": "Zakaria Akhfas - Junior Web Developer && Database Administrator"
       }
     ]
   }
